@@ -55,8 +55,8 @@ authors:
 # normal = 560px / large = 810px
 width: normal
 
-# if you don't need projects, comment the *hearmespeak* configs below
-hearmespeak: true
+# if you don't need projects, comment the *appearances* configs below
+appearances: true
 
 # if you don't need "about" or "articles", comment them out below
 about: true
