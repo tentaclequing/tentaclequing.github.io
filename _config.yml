@@ -55,7 +55,7 @@ authors:
 # normal = 560px / large = 810px
 width: large
 
-# if you don't need projects, comment the *appearances* configs below
+# if you don't need projects or appearances, comment the *appearances* configs below
 appearances: true
 
 # if you don't need "about" or "articles", comment them out below
