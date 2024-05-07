@@ -35,9 +35,9 @@ disqus:
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
-twitter: https://twitter.com/tentaclequing
+twitter: tentaclequing
 # instagram: myinstagram
-linkedin: https://www.linkedin.com/in/gianna-brachetti-truskawa
+linkedin: gianna-brachetti-truskawa
 # github: mygithub
 # email: myemail@gmail.com
 
@@ -56,11 +56,11 @@ authors:
 width: normal
 
 # if you don't need projects, comment the *projects* configs below
-# projects: true
+hear me speak: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: true
+articles: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
@@ -72,7 +72,7 @@ show-tags: false
 related: true
 
 # Display links for next and previous posts for the specified categories
-post-advance-links: [blog]
+post-advance-links: [articles]
 
 # show author block at the end of a post ?
 show-author: true
