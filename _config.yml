@@ -1,9 +1,9 @@
 # main text of home
-title: John Doe
-bio: A Person who travels the world eating noodles
+title: Gianna Brachetti-Truskawa
+bio: Seasoned Product Manager and SEO expert by day - Darkwing Krak by night!
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: Gianna Brachetti-Truskawa - SEO and Product Management
 
 # if it's an external image, update below for true
 # better with square images
@@ -12,15 +12,15 @@ picture: assets/images/profile.jpg
 
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
-dark-theme: auto
+dark-theme: true
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://gianna-brachetti.com/resume.html
 
-url: https://sergiokopplin.github.io/indigo
+url: https://tentaclequing.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -31,29 +31,24 @@ permalink: /:title/
 # if you don't want comments in your posts, leave categories empty
 disqus:
   shortname: github # enter this from your disqus account
-  categories: [blog, project] # only show disqus for posts that have these categories
+  categories: [] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-instagram: myinstagram
-linkedin: mylinkedin
-github: mygithub
-email: myemail@gmail.com
+# facebook: myfacebook
+twitter: https://twitter.com/tentaclequing
+# instagram: myinstagram
+linkedin: https://www.linkedin.com/in/gianna-brachetti-truskawa
+# github: mygithub
+# email: myemail@gmail.com
 
 authors:
-  johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+  gianna:
+    name: Gianna Brachetti-Truskawa
+    bio: SEO @ DeepL by day ★ 🐙Quing by night ★ aka THE BUG MAGNET OF DEATH™️
     external-image: false
     picture: assets/images/profile.jpg
-    twitter: johndoe
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
+    twitter: tentaclequing
+  
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -61,7 +56,7 @@ authors:
 width: normal
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+# projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
@@ -71,7 +66,7 @@ blog: true
 read-time: true
 
 # do you want to show the "tags" inside the posts?
-show-tags: true
+show-tags: false
 
 # related posts inside a post?
 related: true
@@ -83,7 +78,7 @@ post-advance-links: [blog]
 show-author: true
 
 # do you want some animations?
-animation: true
+animation: false
 
 # add default values to specific pages or layouts
 defaults:
