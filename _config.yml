@@ -20,7 +20,7 @@ resume: true
 resume-external: true
 resume-url: https://gianna-brachetti.com/resume.html
 
-url: https://tentaclequing.github.io
+# url: https://tentaclequing.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -59,7 +59,7 @@ width: large
 appearances: true
 
 # if you don't need "about" or "articles", comment them out below
-about: true
+# about: true
 articles: true
 
 # do you want to show the "read time" of the posts?
